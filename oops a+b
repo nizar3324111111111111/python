@@ -1,7 +1,7 @@
 class abc:
     def set_dim(self):
-     a=int(input("enter num"))
-     b=int(input("enter num"))
+     a=int(input("enter num 1:"))
+     b=int(input("enter num 2:"))
      self.l=a
      self.b=b
     def display(self):
